@@ -9,6 +9,6 @@
 
 
 - Exploring new technologies, developing software solutions.
-- Studying {Computer science}
-- Working like {Developer Full-Stack}
+- Studying Computer science
+- Working like Developer Full-Stack
 
