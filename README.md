@@ -1,9 +1,6 @@
-## Hi there 👋
+![github-header-image](https://github.com/R0s3mrcx/R0s3mrcx/assets/174107079/7135562d-2c28-4093-8d7a-28c9fbd96ab8)
 
-
-**R0s3mrcx/R0s3mrcx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+![Header](./your-header-image-name.png)
 
 - 🔭 I’m currently working on ... a
 - 🌱 I’m currently learning ... a
@@ -13,4 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...a a
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
+
 
