@@ -7,15 +7,15 @@
 ---
 
 ## 🛠️ Skills  
-- **Cloud & DevOps:** AWS, GCP, Firebase, Docker, CI/CD  
-- **Backend & APIs:** REST, Payments (Culqi, Openpay)
-- **Frontend & Mobile:** Android/iOS app development (full lifecycle)
+- **Cloud & DevOps:** AWS, Docker, GCP, Firebase, CI/CD  
+- **Backend & APIs:** REST, Payments (Culqi, Openpay)  
+- **Frontend & Mobile:** Android/iOS apps – developed & deployed full lifecycle  
 - **Databases:** SQL (Oracle, MySQL, MSSQL), NoSQL (Firestore, Firebase)  
 
 ---
 
 ## 📌 Projects  
-- **[Dimu](https://www.dimu.app/)** – Business platform (mobile + web, payments, reservations).  
+- **[Dimu](https://www.dimu.app/)** – Mobile & web business platform (payments, reservations). **Led development, deployment, and scaling.**  
 
 ---
 
