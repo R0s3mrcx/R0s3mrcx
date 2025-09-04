@@ -15,7 +15,10 @@
 ---
 
 ## 📌 Projects  
-- **[Dimu](https://www.dimu.app/)** – Mobile & web business platform (payments, reservations). **Led development, deployment, and scaling.**  
+
+- **[Dimu](https://www.dimu.app/)** – Mobile & web business platform (payments, reservations). Led full-stack development, deployment, and scaling, integrating backend services, cloud infrastructure, and CI/CD pipelines.  
+
+- **[Analytics Tracking API](https://github.com/R0s3mrcx/analytics-tracking)** – Secure, cloud-native REST API for capturing user events and metadata. Built with Python, Flask, Docker, and deployed on Google Cloud Run. Implements token-based authentication, structured logging, flexible payloads, and comprehensive automated tests with pytest. CI/CD ready for production-grade deployments.
 
 ---
 
