@@ -1,46 +1,37 @@
 # 👋 Hi, I'm Fabricio Farro  
 
-💻 **CTO at Dimu | Computer Science Student in Poland**  
-🌍 Focused on **Cloud, DevOps & Scalable Systems**  
-🚀 I build digital products from **idea → deployment**  
+💻 Computer Science Student | Cloud & DevOps Enthusiast  
+🌍 Passionate about building full-stack and cloud-native projects
 
 ---
 
 ## 🛠️ Skills  
 
-- **Cloud & DevOps:** GCP, Firebase, Docker, CI/CD  
-- **Backend & APIs:** REST, Payments (Culqi, Openpay)  
-- **Frontend & Mobile:** Android/iOS apps – developed & deployed full lifecycle  
-- **Databases:** SQL (Oracle, MySQL, MSSQL), NoSQL (Firestore, Firebase)  
+- **Cloud & DevOps:** AWS, Azure, Terraform, Firebase, Docker, CI/CD  
+- **Backend & APIs:** REST APIs, Python, SQL (Oracle, MySQL), Supabase  
+- **Frontend / Web:** React, Next.js, TailwindCSS, Vite  
+- **Mobile:** Android & iOS apps  
+- **Other:** Linux, Batch scripting
 
 ---
 
 ## 📌 Projects  
 
-- **Dimu** – Mobile & web business platform (payments, reservations)  
-  - Led **full-stack development, deployment, and scaling**  
-  - Cloud & DevOps: GCP, Firebase, Docker, CI/CD pipelines  
-  - Backend services & infrastructure integration  
+- **Dimu** – Mobile & web platform for payments and reservations  
+  - Full-stack development  
+  - Cloud deployment (GCP, Firebase, Docker)
 
-- **Analytics Tracking API** – Secure, cloud-native REST API  
-  - Built with **Python + Flask**, containerized with **Docker**, deployed on **Google Cloud Run**  
-  - Features: token-based authentication, structured logging, flexible payloads  
-  - Automated tests with **pytest**, CI/CD ready  
-  - ⚡ **Used by:** [Analytics Dashboard](https://github.com/R0s3mrcx/analytics-dashboard) for real-time visualization and reporting  
+- **Analytics Tracking API** – Cloud-native REST API  
+  - Python, Flask, Docker, Google Cloud Run
 
-- **Analytics Dashboard** – Interactive analytics dashboard  
-  - Built with **React + Vite + TailwindCSS + Recharts**  
-  - Connects to Analytics Tracking API to visualize events **in real time**  
-  - Full-stack development, cloud-native integration  
-  - Deployed: **Netlify (frontend) + Cloud Run (backend)**  
-
+- **Analytics Dashboard** – Web analytics dashboard  
+  - React, Vite, TailwindCSS, Recharts
+    
+- **Lovia** – Web app for creating and sharing digital love cards  
+  - Next.js, Supabase, TailwindCSS  
+  - Deployed with GitHub Actions → Azure Static Web Apps
+  
 ---
-
-## 💡 Ecosystem Overview  
-
-Analytics Tracking API → Analytics Dashboard → Insights & Reports
-
-> These projects together form an end-to-end analytics pipeline, demonstrating full-stack development, cloud-native architecture, and DevOps best practices.
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=43D787&center=true&vCenter=true&lines=⭐️+Always+learning;⭐️+Always+building;⭐️+Always+improving"/>
