@@ -34,7 +34,7 @@ Built a production pet-services platform from 0 → 5,000+ users · Lima, Perú 
 **[Analytics Dashboard](#)** — Web analytics dashboard
 - React, Vite, TailwindCSS, Recharts
 
-**[Lovia](https://lovia.vercel.app)** — Web app for creating and sharing digital love cards
+**[Lovia](https://www.loviaforyou.com/)** — Web app for creating and sharing digital love cards
 - Next.js, Supabase, TailwindCSS
 - Deployed with GitHub Actions → Azure Static Web Apps
 
