@@ -3,8 +3,6 @@
 **Co-Founder & CTO @ Dimu · Cloud & DevOps Engineer**  
 Built a production pet-services platform from 0 → 5,000+ users · Lima, Perú 🇵🇪
 
----
-
 ## 🛠️ Stack
 
 **Cloud & DevOps**  
@@ -18,8 +16,6 @@ Built a production pet-services platform from 0 → 5,000+ users · Lima, Perú 
 
 **Other**  
 `Linux` `Batch scripting`
-
----
 
 ## 🚀 Projects
 
@@ -36,13 +32,9 @@ Built a production pet-services platform from 0 → 5,000+ users · Lima, Perú 
 - Next.js, Supabase, TailwindCSS
 - Deployed with GitHub Actions → Azure Static Web Apps
 
----
-
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabricio_Farro-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/fabricio-farro/)
-
----
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=43D787&center=true&vCenter=true&lines=Always+learning;Always+building;Always+shipping"/>
