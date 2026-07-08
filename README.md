@@ -1,41 +1,32 @@
-# Hey, I'm Fabricio Farro 👋
+# Fabricio Farro
 
-**Co-Founder & CTO @ Dimu · Cloud & DevOps Engineer**  
-Built a production pet-services platform from 0 → 5,000+ users · Lima, Perú 🇵🇪
+Cloud Infrastructure & DevOps Engineer based in Poland.
 
-## 🛠️ Stack
+Building cloud infrastructure and automation across AWS and Azure using Kubernetes, Terraform, Docker, Linux, Python, and Bash.
 
-**Cloud & DevOps**  
-`AWS` `GCP` `Azure` `Firebase` `Docker` `Terraform` `CI/CD` `GitHub Actions` `Vercel`
+## Tech Stack
 
-**Backend & APIs**  
-`Python` `Flask` `REST APIs` `SQL` `Oracle` `MySQL` `Supabase`
+**Cloud Platform**
 
-**Frontend & Mobile**  
-`React` `Next.js` `TailwindCSS` `Vite` `Android` `iOS`
+`AWS` • `Azure`
 
-**Other**  
-`Linux` `Batch scripting`
+**Infrastructure as Code & Containers**
 
-## 🚀 Projects
+`Terraform` • `Kubernetes` • `Docker`
 
-**[Dimu](https://dimu.app)** — Pet services platform for vets, groomers & walkers
-> 5,000+ pets · 2,000+ active users · 4.9/5 App Store · iOS & Android · Private repo
-- Built solo from scratch — full-stack, mobile, cloud, and integrations
-- GCP, Firebase, Docker · Culqi, Openpay · Urbaner API
+**Automation & CI/CD**
 
-**[Analytics Platform](https://github.com/R0s3mrcx/analytics-platform)** — Cloud-native analytics system
-- Flask Tracking API + React Dashboard — two services, one platform
-- Python, Docker, Google Cloud Run, Supabase, Netlify · CI/CD with GitHub Actions
+`Python` • `Bash` • `GitHub Actions`
 
-**[Lovia](https://www.loviaforyou.com/)** — Web app for creating and sharing digital love cards
-- Next.js, Supabase, TailwindCSS
-- Deployed with GitHub Actions → Azure Static Web Apps
+**Operating System**
 
-## 📫 Connect
+`Linux`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabricio_Farro-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/fabricio-farro/)
+## Featured Projects
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=43D787&center=true&vCenter=true&lines=Always+learning;Always+building;Always+shipping"/>
-</p>
+- **[CloudStamp](https://github.com/R0s3mrcx/cloudstamp)** - AWS Lambda + Amazon S3
+- **[JobPulse](https://github.com/R0s3mrcx/jobpulse)** - Kubernetes + FastAPI
+- **[Terraform Azure VM](https://github.com/R0s3mrcx/terraform-azure-vm)** - Infrastructure as Code on Azure
+- **[DockVault](https://github.com/R0s3mrcx/dockvault)** - Docker, PostgreSQL and Azure Blob Storage
+- **[Cloud Ops Toolkit](https://github.com/R0s3mrcx/cloud-ops-toolkit)** - Linux automation with Bash
+- **[Lovia](https://www.loviaforyou.com/)** - Next.js application deployed on Azure Static Web Apps
