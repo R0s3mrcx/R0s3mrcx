@@ -2,7 +2,7 @@
 
 Cloud Infrastructure & DevOps Engineer based in Poland.
 
-Building cloud infrastructure and automation across AWS and Azure using Kubernetes, Terraform, Docker, Linux, Python, and Bash.
+Hands-on with cloud infrastructure and automation across AWS and Azure, using Kubernetes, Terraform, Docker, Linux, Python, and Bash.
 
 ## Tech Stack
 
