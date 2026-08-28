@@ -1,36 +1,40 @@
 # Fabricio Farro
 
-Cloud Infrastructure & DevOps Engineer.
+Junior Cloud & DevOps Engineer.
 
-Hands-on with cloud infrastructure and automation across AWS and Azure, with a growing focus on monitoring and reliability, using Kubernetes, Terraform, Docker, Linux, Python, and Bash.
+Hands-on experience with cloud infrastructure, automation, containerization, Infrastructure as Code, CI, monitoring and operational support across AWS, Azure and Google Cloud.
 
 ## Tech Stack
 
-**Cloud Platform**
+**Cloud & Infrastructure**
 
-`AWS` • `Azure`
+`AWS` • `Azure` • `Google Cloud`
 
 **Infrastructure as Code & Containers**
 
-`Terraform` • `Kubernetes` • `Docker`
+`Terraform` • `Kubernetes` • `Docker` • `Docker Compose`
 
-**Automation & CI/CD**
+**Automation & CI**
 
-`Python` • `Bash` • `GitHub Actions`
+`Python` • `Bash` • `PowerShell` • `GitHub Actions`
 
 **Monitoring & Observability**
 
 `Prometheus` • `Grafana` • `CloudWatch` • `Metrics` • `Logs` • `Alerting`
 
-**Operating System**
+**Systems & Tools**
 
-`Linux`
+`Linux` • `Git` • `Azure CLI` • `AWS CLI`
+
+**Backend & Testing**
+
+`FastAPI` • `Flask` • `PostgreSQL` • `Pytest` • `Bats` • `ShellCheck`
 
 ## Featured Projects
 
-- **[CloudStamp](https://github.com/R0s3mrcx/cloudstamp)** - AWS Lambda + Amazon S3
-- **[JobPulse](https://github.com/R0s3mrcx/jobpulse)** - Kubernetes + FastAPI
-- **[Terraform Azure VM](https://github.com/R0s3mrcx/terraform-azure-vm)** - Infrastructure as Code on Azure
-- **[Service Watch](https://github.com/R0s3mrcx/service-watch)** - FastAPI, Prometheus, Grafana and automated alerting
-- **[DockVault](https://github.com/R0s3mrcx/dockvault)** - Docker, PostgreSQL and Azure Blob Storage
-- **[Cloud Ops Toolkit](https://github.com/R0s3mrcx/cloud-ops-toolkit)** - Linux automation with Bash
+- **[Terraform Azure VM](https://github.com/R0s3mrcx/terraform-azure-vm)** — Terraform + Azure + GitHub Actions
+- **[Service Watch](https://github.com/R0s3mrcx/service-watch)** — FastAPI + Prometheus + Grafana + automated alerting
+- **[DockVault](https://github.com/R0s3mrcx/dockvault)** — Docker + PostgreSQL + Bash + Azure Blob Storage
+- **[JobPulse](https://github.com/R0s3mrcx/jobpulse)** — Kubernetes + FastAPI + Persistent Volumes
+- **[CloudStamp](https://github.com/R0s3mrcx/cloudstamp)** — AWS Lambda + Amazon S3
+- **[Cloud Ops Toolkit](https://github.com/R0s3mrcx/cloud-ops-toolkit)** — Linux automation + Bash + ShellCheck + Bats
