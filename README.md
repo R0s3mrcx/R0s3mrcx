@@ -2,15 +2,15 @@
 
 Junior Cloud & DevOps Engineer.
 
-Hands-on experience with cloud infrastructure, automation, containerization, Infrastructure as Code, CI, monitoring and operational support across AWS, Azure and Google Cloud.
+Background in IT operations, automation and troubleshooting, with hands-on experience building infrastructure on AWS and Azure and production experience with Google Cloud.
 
 ## Tech Stack
 
-**Cloud & Infrastructure**
+**Cloud**
 
-`AWS` • `Azure` • `Google Cloud`
+`Azure` • `Aws` • `Google Cloud`
 
-**Infrastructure as Code & Containers**
+**Infrastructure & Containers**
 
 `Terraform` • `Kubernetes` • `Docker` • `Docker Compose`
 
@@ -18,13 +18,13 @@ Hands-on experience with cloud infrastructure, automation, containerization, Inf
 
 `Python` • `Bash` • `PowerShell` • `GitHub Actions`
 
+**Systems & Networking**
+
+`Linux` • `Git` • `Azure CLI` • `AWS CLI` • `TCP/IP` • `DNS` • `SSH`
+
 **Monitoring & Observability**
 
 `Prometheus` • `Grafana` • `CloudWatch` • `Metrics` • `Logs` • `Alerting`
-
-**Systems & Tools**
-
-`Linux` • `Git` • `Azure CLI` • `AWS CLI`
 
 **Backend & Testing**
 
@@ -34,7 +34,7 @@ Hands-on experience with cloud infrastructure, automation, containerization, Inf
 
 - **[Terraform Azure VM](https://github.com/R0s3mrcx/terraform-azure-vm)** — Terraform + Azure + GitHub Actions
 - **[Service Watch](https://github.com/R0s3mrcx/service-watch)** — FastAPI + Prometheus + Grafana + automated alerting
-- **[DockVault](https://github.com/R0s3mrcx/dockvault)** — Docker + PostgreSQL + Bash + Azure Blob Storage
 - **[JobPulse](https://github.com/R0s3mrcx/jobpulse)** — Kubernetes + FastAPI + Persistent Volumes
 - **[CloudStamp](https://github.com/R0s3mrcx/cloudstamp)** — AWS Lambda + Amazon S3
 - **[Cloud Ops Toolkit](https://github.com/R0s3mrcx/cloud-ops-toolkit)** — Linux automation + Bash + ShellCheck + Bats
+- **[DockVault](https://github.com/R0s3mrcx/dockvault)** — Docker + PostgreSQL + Bash + Azure Blob Storage
